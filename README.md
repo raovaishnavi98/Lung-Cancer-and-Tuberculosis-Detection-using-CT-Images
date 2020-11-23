@@ -22,7 +22,7 @@ Due to the biased nature of the dataset, training model has 30% positive and 70%
 
 ## Model.py
 The CNN model selected for implementation:
-
+![CNN Model](https://github.com/raovaishnavi98/Lung-Cancer-and-Tuberculosis-Detection-using-CT-Images/model.png?raw=true)
 
 
 ## run_model.py
